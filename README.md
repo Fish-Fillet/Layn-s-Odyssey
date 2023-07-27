@@ -8,14 +8,14 @@ Welcome to Layn-s-Obyssey. This repo contains all the mods to use in Layn's MC s
 
 - The map is now 3 time larger than the old one (as taking 6 hours to cross the map was too small for someone)
 - On the latest version of MC, 1.20.1
-- Significaly modded terrains and biomes 
-- No Enderman greif (they will still attack you @-@)
+- Significantly modded terrains and biomes 
+- No Enderman grief (they will still attack you @-@)
 - Creepers explosion damage is auto repaired after a few seconds (this includes chests and items in them)
-- Random chance of "Challenger Mods" to spawn. These are unique mods that are significaly tougher than normal mobs
-- Pet freiendly fire is off. So no hurting pets buy any user, mobs can still hurt them
+- Random chance of "Challenger Mods" to spawn. These are unique mods that are significantly tougher than normal mobs
+- Pet friendly fire is off. So no hurting pets buy any user, mobs can still hurt them
 - Sleeping bags so one can sleep on the road
 - Dungeon generator overhaul. Now bigger and cooler
-- Rideable sniffers. You can also put chests on them so you can travel with all your gear
+- Ride-able sniffers. You can also put chests on them so you can travel with all your gear
 
 
 ## Installation
