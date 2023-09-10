@@ -37,3 +37,4 @@ Additional information about mods that are being used in this sever:
 - https://www.curseforge.com/minecraft/mc-mods/hopo-better-ruined-portals
 - https://www.curseforge.com/minecraft/mc-mods/comforts
 - https://www.curseforge.com/minecraft/mc-mods/passive-endermen
+- https://www.curseforge.com/minecraft/mc-mods/lootr
